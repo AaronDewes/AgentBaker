@@ -2000,7 +2000,7 @@
             "versionsV2": [
               {
                 "renovateTag": "name=dcgm-exporter, repository=production, os=ubuntu, release=24.04",
-                "latestVersion": "4.8.2-ubuntu24.04u1"
+                "latestVersion": "4.8.2-ubuntu24.04u2"
               }
             ]
           },
@@ -2008,7 +2008,7 @@
             "versionsV2": [
               {
                 "renovateTag": "name=dcgm-exporter, repository=production, os=ubuntu, release=22.04",
-                "latestVersion": "4.8.2-ubuntu22.04u1"
+                "latestVersion": "4.8.2-ubuntu22.04u2"
               }
             ]
           }
